@@ -36,8 +36,9 @@ COPYRIGHT INFORMATION
 MODIFICATION AND REDISTRIBUTING
 ==========================================
 
-This is free software protected under the GNU General Public License (Hereby refered to as GNU GPL), 
-and therfore you are allowed to modify it as afree software. Please use these terms for modification.
+    This is free software protected under the GNU General Public License (Hereby refered to as GNU GPL), 
+    and therfore you are allowed to modify it as afree software. Please use these terms for modification.
+
 ==========================================
 Modification
 ==========================================
