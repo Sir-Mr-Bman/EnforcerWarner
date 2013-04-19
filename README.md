@@ -2,7 +2,9 @@
 ENFORCER WARNER v1.0 BY SY_MR_BMAN
 ===================================
 
-CopyWrites.
+===================================
+COPYRIGHT INFORMATION
+===================================
     Enforcer Warner, By Sir_Mr_Bman - Gives enforcement warnings, meant for server admins.
     Copyright (C) 2013  Sir_Mr_Bman and Bman INC.
 
@@ -36,13 +38,15 @@ MODIFICATION AND REDISTRIBUTING
 
 This is free software protected under the GNU General Public License (Hereby refered to as GNU GPL), 
 and therfore you are allowed to modify it as afree software. Please use these terms for modification.
-
-Modification:
+==========================================
+Modification
+==========================================
     You may modify my software to your preference. When modifying my software, this file MUST BE INCLUDED
     IN YOUR SOFTWARE, even if it is for personal use. You may also NOT copyright any modified version of
     my software as your own, or any part of it. If you modify my software, it is still under my copyright.
-
+==========================================
 Redistributing:
+==========================================
     You may NOT redistribute my software without making modifications to 2 or more files. This means that
     if you modify my software for personal use (for example, a command conflict) then you may NOT distribute
     my software unless 2 files (or 20 lines of code, witchever comes first) are modified. You may also NOT
