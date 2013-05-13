@@ -40,13 +40,13 @@ MODIFICATION AND REDISTRIBUTING
     and therfore you are allowed to modify it as afree software. Please use these terms for modification.
 
 ==========================================
-Modification
+MODIFICATION TERMS
 ==========================================
     You may modify my software to your preference. When modifying my software, this file MUST BE INCLUDED
     IN YOUR SOFTWARE, even if it is for personal use. You may also NOT copyright any modified version of
     my software as your own, or any part of it. If you modify my software, it is still under my copyright.
 ==========================================
-Redistributing:
+REDISTRIBUTING INFORMATION
 ==========================================
     You may NOT redistribute my software without making modifications to 2 or more files. This means that
     if you modify my software for personal use (for example, a command conflict) then you may NOT distribute
